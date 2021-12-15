@@ -8,3 +8,6 @@ The following project details our work on fake news detection using:
 - Naive Bayes
 - Support Vector Machines
 
+We couldn't upload our data files here due to the size being too large, but here's the link to the kaggle where it is downlooadable:
+
+https://www.kaggle.com/c/cs4740-news-classification-with-language-models
